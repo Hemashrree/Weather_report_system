@@ -1,0 +1,18 @@
+C:/Users/MY/AppData/Local/Programs/Python/Python38/python.exe "c:/Users/MY/Desktop/Protosem software projects/weather monitoring/weather.py"
+-----------chennai------------
+Temperature: 303.15
+Humidity: 54
+Pressure: 1007
+Weather Report: few clouds------------paris-------------
+Temperature: 288.89
+Humidity: 33
+Pressure: 1014
+Weather Report: clear sky-----------chennai------------
+Temperature: 302.15
+Humidity: 58
+Pressure: 1007
+Weather Report: few clouds----------coimbatore----------
+Temperature: 308.15
+Humidity: 29
+Pressure: 1007
+Weather Report: scattered clouds
